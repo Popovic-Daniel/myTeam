@@ -10,6 +10,6 @@ public class MainAppl {
 		Player player2 = new Player(1, "Alaba", "Defense");
 		System.out.println("=== " + player2.toString());
 		Player player3 = new Player(3, "Hinteregger", "Defense");
-		System.out.println("=== " + player2.toString());
+		System.out.println("=== " + player3.toString());
 	}
 }
