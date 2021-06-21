@@ -13,5 +13,7 @@ public class MainAppl {
 		System.out.println("=== " + player3.toString());
 		Player player4 = new Player(4, "Kalajdzic", "Striker");
 		System.out.println("=== " + player4.toString());
+		Player player5 = new Player(22, "Popovic", "Goalkeeper");
+		System.out.println("=== " + player5.toString());
 	}
 }
