@@ -9,5 +9,7 @@ public class MainAppl {
 		System.out.println("=== " + player.toString());
 		Player player2 = new Player(1, "Alaba", "Defense");
 		System.out.println("=== " + player2.toString());
+		Player player3 = new Player(3, "Hinteregger", "Defense");
+		System.out.println("=== " + player2.toString());
 	}
 }
