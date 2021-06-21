@@ -13,6 +13,6 @@ public class Player {
 
 	@Override
 	public String toString() {
-		return "Player [number=" + number + ", name=" + name + ", position=" + position + "]";
+		return "Player => number=" + number + ", name=" + name + ", position=" + position + "";
 	}
 }
